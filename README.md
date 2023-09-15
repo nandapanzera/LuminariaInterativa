@@ -1,4 +1,4 @@
-# LuminariaInterativa :bulb:
+# Luminaria Interativa :bulb:
 
 Projeto do Escritório de Engenharia
 [Centro Universitário do Estado do Pará](https://www.cesupa.br/).
